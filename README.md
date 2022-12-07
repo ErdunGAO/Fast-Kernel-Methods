@@ -12,6 +12,8 @@ This repo is a collection of AWESOME things about kernel-based methods, mainly f
 - Fourier Sparse Leverage Scores and Approximate Kernel Learning. [[neurips20]](https://papers.nips.cc/paper/2020/file/012d9fe15b2493f21902cd55603382ec-Paper.pdf) [[codes (matlab)]](https://github.com/cpmusco/leverage_score_rff)
 - The Fast Kernel Transform. [[aistats22]](https://proceedings.mlr.press/v151/ryan22a/ryan22a.pdf) [[codes (julia)]](https://github.com/jpryan1/FastKernelTransform.jl)
 - Linear Time Kernel Matrix Approximation via Hyperspherical Harmonics. [[arxiv22]](https://arxiv.org/pdf/2202.03655.pdf) [[codes (julia)]](https://github.com/jpryan1/HarmonicDecompFact.jl)
+- Log-Linear-Time Gaussian Processes Using Binary Tree Kernels. [[neurips22]](https://openreview.net/pdf?id=VB_mBqL4VW-)[[codes]](https://github.com/mkc1000/btgp)
+
 
 ## Kernel-based independence test
 ### Theory 
