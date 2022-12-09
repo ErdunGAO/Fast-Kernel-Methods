@@ -23,5 +23,6 @@ This repo is a collection of AWESOME things about kernel-based methods, mainly f
 - Kernel Measures of Conditional Dependence. [[neurips07]](https://papers.nips.cc/paper/2007/file/3a0772443a0739141292a5429b952fe6-Paper.pdf)
 - (KCI) Kernel-based Conditional Independence Test and Application in Causal Discovery. [[uai12]](https://arxiv.org/pdf/1202.3775.pdf) [[codes]](https://github.com/cmu-phil/causal-learn/blob/main/causallearn/utils/KCI/KCI.py)
 - Approximate Kernel-based Conditional Independence Tests for Fast Non-Parametric Causal Discovery. [[JCI19]](https://arxiv.org/pdf/1702.03877.pdf)
+- Kernel-Based Hypothesis Tests: Large-Scale Approximations and Bayesian Perspectives. [[Phd thesis]](https://ora.ox.ac.uk/objects/uuid:5e6c96eb-7924-45e6-8060-7de58e643f67/download_file?file_format=application%2Fpdf&safe_filename=Qinyi_s_thesis_final_final.pdf&type_of_work=Thesis)[[codes]](https://github.com/oxcsml/kerpy)
 - An Asymptotic Test for Conditional Independence using Analytic Kernel Embeddings. [[icml22]](https://proceedings.mlr.press/v162/scetbon22a/scetbon22a.pdf)[[codes]](https://github.com/meyerscetbon/lp-ci-test)
 
