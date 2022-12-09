@@ -7,6 +7,7 @@ This repo is a collection of AWESOME things about kernel-based methods, mainly f
 &#x1F60D; Recommend！
 
 ## Kernel Approximation
+### Data independent (random feature)
 - Quadrature-based features for kernel approximation. [[neurips18]](https://papers.nips.cc/paper/2018/file/6e923226e43cd6fac7cfe1e13ad000ac-Paper.pdf) [[codes]](https://github.com/maremun/quffka)
 - GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration. [[neurips18]](https://papers.nips.cc/paper/2018/file/27e8e17134dd7083b050476733207ea1-Paper.pdf) [[codes]](https://gpytorch.ai)
 - Fourier Sparse Leverage Scores and Approximate Kernel Learning. [[neurips20]](https://papers.nips.cc/paper/2020/file/012d9fe15b2493f21902cd55603382ec-Paper.pdf) [[codes (matlab)]](https://github.com/cpmusco/leverage_score_rff)
@@ -14,6 +15,8 @@ This repo is a collection of AWESOME things about kernel-based methods, mainly f
 - Linear Time Kernel Matrix Approximation via Hyperspherical Harmonics. [[arxiv22]](https://arxiv.org/pdf/2202.03655.pdf) [[codes (julia)]](https://github.com/jpryan1/HarmonicDecompFact.jl)
 - (**Binary-Tree Kernel**) Log-Linear-Time Gaussian Processes Using Binary Tree Kernels. [[neurips22]](https://openreview.net/pdf?id=VB_mBqL4VW-)[[codes]](https://github.com/mkc1000/btgp)
 
+### Data dependent (nystrom method)
+- On the Nystrom Method for Approximating a Gram Matrix for Improved Kernel-Based Learning. [[JMLR05]](https://www.jmlr.org/papers/volume6/drineas05a/drineas05a.pdf)
 
 ## Kernel-based independence test
 ### Theory 
