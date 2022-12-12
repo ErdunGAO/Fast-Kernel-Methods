@@ -26,3 +26,7 @@ This repo is a collection of AWESOME things about kernel-based methods, mainly f
 - Kernel-Based Hypothesis Tests: Large-Scale Approximations and Bayesian Perspectives. [[Phd thesis]](https://ora.ox.ac.uk/objects/uuid:5e6c96eb-7924-45e6-8060-7de58e643f67/download_file?file_format=application%2Fpdf&safe_filename=Qinyi_s_thesis_final_final.pdf&type_of_work=Thesis)[[codes]](https://github.com/oxcsml/kerpy)
 - An Asymptotic Test for Conditional Independence using Analytic Kernel Embeddings. [[icml22]](https://proceedings.mlr.press/v162/scetbon22a/scetbon22a.pdf)[[codes]](https://github.com/meyerscetbon/lp-ci-test)
 
+## Continuous Kernel learning
+- Incremental kernel PCA and the Nystrom method. [[paper]](https://arxiv.org/pdf/1802.00043.pdf)
+- Incremental Randomized Sketching for Online Kernel Learning. [[icml22]](http://proceedings.mlr.press/v97/zhang19h/zhang19h.pdf)
+
