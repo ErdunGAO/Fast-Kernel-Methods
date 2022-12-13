@@ -17,6 +17,7 @@ This repo is a collection of AWESOME things about kernel-based methods, mainly f
 
 ### Data dependent (nystrom method)
 - On the Nystrom Method for Approximating a Gram Matrix for Improved Kernel-Based Learning. [[JMLR05]](https://www.jmlr.org/papers/volume6/drineas05a/drineas05a.pdf)
+- Large-Scale Data-Dependent Kernel Approximation. [[aistats17]](http://proceedings.mlr.press/v54/ionescu17a/ionescu17a.pdf)
 
 ## Kernel-based independence test
 ### Theory 
