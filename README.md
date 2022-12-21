@@ -4,8 +4,6 @@ This repo is a collection of AWESOME things about kernel-based methods, mainly f
 
 ![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
-&#x1F60D; Recommend！
-
 ## Kernel Approximation
 ### Data independent (random feature)
 - Quadrature-based features for kernel approximation. [[neurips18]](https://papers.nips.cc/paper/2018/file/6e923226e43cd6fac7cfe1e13ad000ac-Paper.pdf) [[codes]](https://github.com/maremun/quffka)
