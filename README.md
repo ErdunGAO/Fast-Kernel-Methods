@@ -4,6 +4,10 @@ This repo is a collection of AWESOME things about kernel-based methods, mainly f
 
 ![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
+## Introduction to RKHS
+- Introduction to RKHS. [[Blog1]](https://tlienart.github.io/posts/2016/03/02-rkhs-1/#introduction_to_rkhs) [[Blog2]](https://tlienart.github.io/posts/2016/03/05-rkhs-2/)
+
+
 ## Kernel Approximation
 ### Data independent (random feature)
 - Quadrature-based features for kernel approximation. [[neurips18]](https://papers.nips.cc/paper/2018/file/6e923226e43cd6fac7cfe1e13ad000ac-Paper.pdf) [[codes]](https://github.com/maremun/quffka)
